@@ -3,7 +3,7 @@
     - user authentication - email & password
     - serch github user and display iformation and public repos
     - expolring github api and react router
-## [Click here to see for Project](https://github-api-9b877.web.app/signin)
+## [Click here to see Project](https://github-api-9b877.web.app/signin)
 Dummy - email : a@test.com || Password : 123456
 
 ### Used Libraries 
